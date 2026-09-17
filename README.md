@@ -75,17 +75,6 @@ There is no navigation library. `App.js` holds a `screen` string and
 renders one component — fine at this size, and one less dependency to
 keep current.
 
-### Design
-
-Dark, indigo-violet ground with translucent glass surfaces, set in
-Outfit. Each accent means exactly one thing: violet for actions, mint
-for money in, pink for money out, amber for money scheduled but not yet
-spent, sky for transfers. Reusing an accent for a second purpose is
-what made the first version of this app look anonymous.
-
-Each of those choices is written down and argued for, so they do not
-quietly drift back.
-
 ---
 
 ## Bank sync
